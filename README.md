@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yegorPomaskin
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning how to craft authentic web-layouts 
+- 📫 You can reach me here or through mail. Peace!
